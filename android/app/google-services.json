@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323231890746",
+    "project_id": "eziline-school-management",
+    "storage_bucket": "eziline-school-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323231890746:android:96379a9925280880b7a403",
+        "android_client_info": {
+          "package_name": "com.hasnain.eziline_school_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323231890746-ihh79o07mrq64bjett8qgse7f4i4gpbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW6-DsnS5KO3nhKP0yhHe8glsn94_6WTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323231890746-ihh79o07mrq64bjett8qgse7f4i4gpbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
